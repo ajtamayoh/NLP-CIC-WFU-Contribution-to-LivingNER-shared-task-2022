@@ -1,4 +1,6 @@
-# NLP-CIC-WFU-Contribution-to-LivingNER-shared-task-2022
+# ParTNER: Paragraph Tuning for Named Entity Recognition on Clinical Cases in Spanish using mBERT
+
+#### Antonio Tamayo, Diego A. Burgos and Alexander Gelbukh
 
 ## Abstract
 
