@@ -1,6 +1,16 @@
 # ParTNER: Paragraph Tuning for Named Entity Recognition on Clinical Cases in Spanish using mBERT
 
-#### Antonio Tamayo, Diego A. Burgos and Alexander Gelbukh
+Authors:
+
+Antonio Tamayo (ajtamayo2019@ipn.cic.mx, ajtamayoh@gmail.com)
+
+Diego A. Burgos (burgosda@wfu.edu)
+
+Alexander Gelbulkh (gelbukh@gelbukh.com)
+
+For bugs or questions related to the code, do not hesitate to contact us (Antonio Tamayo: ajtamayoh@gmail.com)
+
+If you use this code please cite our work: comming soon.
 
 ## Abstract
 
