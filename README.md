@@ -24,4 +24,4 @@ Option 2: [Hugging Face Model](https://huggingface.co/ajtamayoh/NLP-CIC-WFU_Clin
 
 ### How to replicate our experiments
 
-[source code]
+[source code](https://github.com/ajtamayoh/NLP-CIC-WFU-Contribution-to-LivingNER-shared-task-2022/blob/main/Code.ipynb)
