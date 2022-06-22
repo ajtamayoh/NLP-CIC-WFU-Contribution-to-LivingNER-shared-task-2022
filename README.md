@@ -1,4 +1,4 @@
-# ParTNER: Paragraph Tuning for Named Entity Recognition on Clinical Cases in Spanish using mBERT
+# ParTNER: Paragraph Tuning for Named Entity Recognition on Clinical Cases in Spanish using mBERT + Rules
 
 Authors:
 
