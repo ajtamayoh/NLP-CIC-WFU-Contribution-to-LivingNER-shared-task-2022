@@ -10,7 +10,9 @@ Alexander Gelbulkh (gelbukh@gelbukh.com)
 
 For bugs or questions related to the code, do not hesitate to contact us (Antonio Tamayo: ajtamayoh@gmail.com)
 
-If you use this code please cite our work: comming soon.
+If you use this code please cite our work:
+
+Tamayo, A., Burgos, D., & Gelbukh, A. (2022). ParTNER: Paragraph Tuning for Named Entity Recognition on Clinical Cases in Spanish using mBERT+ Rules. In CEUR Workshop Proceedings (Vol. 3202). CEUR-WS.
 
 ## Abstract
 
